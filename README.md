@@ -1,4 +1,4 @@
-Privacy Policy
+# Privacy Policy
 
 Last Updated: December 7, 2024
 1. Information Collection and Use
@@ -11,3 +11,8 @@ Learn Language LL does not impose age restrictions on its users.
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 5. Contact Us
 If you have any questions or concerns about this Privacy Policy or data practices, please contact us at y.niakhai@gmail.com.
+
+# Contact Us
+
+If you have any questions or suggestions, just reach out to us at specific address below and we’ll respond as soon as we can. Please provide as much information as possible.
+y.niakhai@gmail.com
