@@ -51,6 +51,10 @@ You can stop using the App at any time by deleting it. We may suspend or end you
 
 We may change these Terms, for example when the App or the law changes. We will publish the new version on this page with a new date. If a change significantly affects you, we will tell you in the App or on its store page. The updated Terms apply once you continue to use the App after the change takes effect.
 
+## 7. Additional terms for the Apple App Store
+
+If you downloaded the App from the Apple App Store, the following also applies: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
 # Contact Us
 
 If you have any questions or suggestions, just reach out to us at specific address below and we’ll respond as soon as we can. Please provide as much information as possible.
